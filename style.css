@@ -138,3 +138,40 @@ h4 {
     font-size: 18px;
     padding-left: 20px;
 }
+
+/*For message*/
+
+.conbody {
+    height: 900px;
+    background: url(conbg.jpg);
+    background-size: cover;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+input[type="name"],
+input[type="email"] {
+    width: 20%;
+}
+
+textarea {
+    width: 50%;
+    margin: 10px 0;
+}
+
+.hcon {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    width: 10%;
+    margin-top: 10px;
+}
