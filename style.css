@@ -105,7 +105,7 @@ h5 {
 }
 
 .rand {
-    
+
     background: url(c1.JPG);
     background-size: 110%;
     float: right;
@@ -129,12 +129,12 @@ tr:first-child {
 }
 
 h4 {
-    font-size: 18px; 
+    font-size: 18px;
     font-family: 'Playfair Display', serif;
 }
 
 .SRA {
-    height: 100px; 
+    height: 100px;
     font-size: 18px;
     padding-left: 20px;
 }
