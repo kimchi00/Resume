@@ -133,12 +133,8 @@ h4 {
     font-family: 'Playfair Display', serif;
 }
 
-ul {
+.SRA {
     height: 100px; 
     font-size: 18px;
-}
-
-ol {
-    
-    font-size: 18px;
+    padding-left: 20px;
 }
